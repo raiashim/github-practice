@@ -11,3 +11,12 @@ p {
   color: gray;
   background-color: red;
 }
+
+h2 {
+  color: purple;
+}
+
+.ashim-text {
+  color: yellow;
+  background-color: teal;
+}
